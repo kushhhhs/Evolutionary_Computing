@@ -1,0 +1,2 @@
+## *Evolutionary Computing (X_400111) – VU Amsterdam*
+This repository contains all code for the assignments in the Evolutionary Computing course (X_400111) at Vrije Universiteit Amsterdam (VU Amsterdam).
